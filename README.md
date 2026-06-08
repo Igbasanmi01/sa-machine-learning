@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 🤖 Sentiment Analysis App
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This is a sentiment analysis app.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sa-machine-learning.streamlit.app/)
 
 ## GitHub Codespaces
 
